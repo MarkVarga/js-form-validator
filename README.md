@@ -1,1 +1,1 @@
-# markvarga.github.io-js-form-validator
+A simple form with form validation using HTML, CSS and JavaScript.
